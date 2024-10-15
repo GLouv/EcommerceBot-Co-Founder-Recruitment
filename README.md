@@ -1,5 +1,7 @@
 EcommerceBot Co-Founder Recruitment
+
 Project Overview
+
 EcommerceBot is an AI-driven platform aimed at automating eCommerce operations and helping online stores scale effortlessly. Our platform integrates with popular eCommerce systems to automate everything from customer service to inventory management. We're on a mission to revolutionize the eCommerce space with innovative AI-powered solutions.
 
 Why Join Us?
